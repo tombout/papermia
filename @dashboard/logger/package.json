@@ -1,0 +1,6 @@
+{
+  "name": "@dashboard/logger",
+  "version": "1.0.0",
+  "description": "Logger module",
+  "main": "index.js"
+}
