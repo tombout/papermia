@@ -1,8 +1,8 @@
 module.exports = {
-  debug: (msg) => {
-    console.debug(msg)
+  debug: (msg, optionalParams) => {
+    console.debug(msg, optionalParams)
   },
-  info: (msg) => {
-    console.info(msg)
+  info: (msg, optionalParams) => {
+    console.info(msg, optionalParams)
   }
 }
