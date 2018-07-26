@@ -12,6 +12,7 @@ Thumbs up for [SemVer](http://semver.org/).
 - Initial NodeJs project setup
 - Setup [StandardJs](https://standardjs.com/) to enforce consistent code style
 - Use [ExpressJs](https://expressjs.com/) as web framework
+- Add some express sample routes using express.Router()
 - Evaluate better local require() paths:
 
   The goal was (and still is) to use the Node require module without relative paths.
