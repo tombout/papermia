@@ -9,7 +9,8 @@
   "author": "Thomas Schmitz",
   "license": "ISC",
   "dependencies": {
-    "@dashboard/logger": "./@dashboard/logger"
+    "@dashboard/logger": "./@dashboard/logger",
+    "express": "^4.16.3"
   },
   "devDependencies": {
     "standard": "^11.0.1"

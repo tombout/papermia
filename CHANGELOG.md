@@ -10,7 +10,8 @@ Thumbs up for [SemVer](http://semver.org/).
 ### Version 0.1.0
 
 - Initial NodeJs project setup
-- Use [StandardJs](https://standardjs.com/) to enforce consistent code style
+- Setup [StandardJs](https://standardjs.com/) to enforce consistent code style
+- Use [ExpressJs](https://expressjs.com/) as web framework
 - Evaluate better local require() paths:
 
   The goal was (and still is) to use the Node require module without relative paths.
