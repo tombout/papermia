@@ -8,6 +8,9 @@
   },
   "author": "Thomas Schmitz",
   "license": "ISC",
+  "dependencies": {
+    "@dashboard/logger": "./@dashboard/logger"
+  },
   "devDependencies": {
     "standard": "^11.0.1"
   }
